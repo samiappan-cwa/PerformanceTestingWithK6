@@ -1,1 +1,1 @@
-# PerfomanceTestingWithK6
+# PerformanceTestingWithK6
