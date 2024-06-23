@@ -1,8 +1,10 @@
 import { check } from 'k6';
 import http from 'k6/http';
 export const options = {
-  vus: 10,
-  duration: '30s',
+  executor: 'pre-vu-iterations',
+  vus: 1,
+  iterations: 40,
+  maxDurations: '30s',
 }
 export default function () {
     const getUrl = 'https://reqres.in/api/users?page=2'
