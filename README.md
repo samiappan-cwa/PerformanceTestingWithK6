@@ -7,7 +7,7 @@ This pet project contain the test scripts for the basic performance testing scen
 
 ## API Reference
 
-The API's used with this pet project utilised from the test API provide [Reqres](https://reqres.in/). 
+The API's used with this pet project utilised from the test API provider [Reqres](https://reqres.in/). 
 
 
 ## Installation
