@@ -2,7 +2,7 @@ import { check } from 'k6';
 import http from 'k6/http';
 export const options = {
   vus: 1,
-  duration: '5s',
+  duration: '10s',
 }
 export default function() {
     const getUrl = 'https://reqres.in/api/users?page=2'
