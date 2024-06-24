@@ -49,3 +49,9 @@ To run tests, run the following command by navigated into the respective folders
 k6 run {fileName}.js
 ```
 
+## Language used 
+
+<img height="70" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"> </img>
+
+
+
